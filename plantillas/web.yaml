@@ -1,0 +1,8 @@
+nombre: web
+maquinas:
+  - nombre: web01
+    ip: 192.168.56.10
+    memoria: 512
+    cpus: 1
+paquetes:
+  - nginx

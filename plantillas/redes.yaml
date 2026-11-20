@@ -1,0 +1,14 @@
+nombre: redes
+maquinas:
+  - nombre: router
+    ip: 192.168.56.20
+    memoria: 384
+    cpus: 1
+  - nombre: cliente
+    ip: 192.168.56.21
+    memoria: 384
+    cpus: 1
+paquetes:
+  - net-tools
+  - traceroute
+  - tcpdump
