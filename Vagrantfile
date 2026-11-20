@@ -21,6 +21,7 @@ Vagrant.configure("2") do |config|
 
       nodo.vm.provision "shell", path: "provision/base.sh",
                         args: plantilla['paquetes'] || []
+      nodo.vm.provision "shell", path: "provision/seguridad.sh"
     end
   end
 end

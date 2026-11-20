@@ -8,3 +8,6 @@
 2026-11-20 15:07:56 - curso=web comando=vagrant snapshot save --force limpio
 2026-11-20 15:13:36 - curso=web comando=vagrant snapshot restore --no-provision limpio
 2026-11-20 15:16:18 - curso=web comando=vagrant halt
+2026-11-20 15:19:29 - curso=web comando=vagrant up --no-provision
+2026-11-20 15:29:11 - curso=web comando=vagrant snapshot save --force limpio
+2026-11-20 15:31:03 - curso=web comando=vagrant halt
