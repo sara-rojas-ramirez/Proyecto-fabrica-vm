@@ -51,7 +51,7 @@ fabrica-vm/
 ├── logs/                 # fabrica.log y consumo.log
 └── docs/
     ├── plan_pruebas.md
-    └── evidencias/       # Capturas
+    └── documentacion.pdf       # Incluye las evidencias
 ```
 
 ## 5. Instalación
@@ -138,7 +138,7 @@ Al crearse, cada máquina ejecuta `provision/base.sh`, que:
 
 ## 11. Pruebas y evidencias
 
-El plan de pruebas está en [`docs/plan_pruebas.md`](docs/plan_pruebas.md) y las capturas en [`docs/evidencias/`](docs/evidencias/).
+El plan de pruebas está en [`docs/plan_pruebas.md`](docs/plan_pruebas.md) y la documentación con la evidencia de capturas en [`docs/documentacion.pdf`]).
 
 **Video demostrativo:** _(pegar aquí el enlace de Drive o YouTube)_
 
@@ -156,11 +156,11 @@ El plan de pruebas está en [`docs/plan_pruebas.md`](docs/plan_pruebas.md) y las
 
 | Integrante | Funcionalidad a cargo |
 |---|---|
-| Daniela Arias Giraldo | _(completar)_ |
-| Martha Mahecha | _(completar)_ |
-| Sebastian Osorio Loaiza | _(completar)_ |
-| Sara Rojas | _(completar)_ |
-| Scarleth Covos | _(completar)_ |
+| Daniela Arias Giraldo | _Video demostrativo_ |
+| Martha Mahecha | _Documentación y creación del plan de pruebas_ |
+| Sebastian Osorio Loaiza | _Funcionalidad 7_ |
+| Sara Rojas | _Funcionalidades 1 a 6_ |
+| Scarleth Covos | _Funcionalidades 1 a 6_ |
 
 ## 14. Reto extra (grupos de 5)
 
