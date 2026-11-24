@@ -138,7 +138,7 @@ Al crearse, cada máquina ejecuta `provision/base.sh`, que:
 
 ## 11. Pruebas y evidencias
 
-El plan de pruebas está en [`docs/plan_pruebas.md`](docs/plan_pruebas.md) y la documentación con la evidencia de capturas en [`docs/documentacion.pdf`]).
+El plan de pruebas está en [`docs/plan_pruebas.md`](docs/plan_pruebas.md) y la documentación con la evidencia de capturas en [`docs/documentacion`]).
 
 **Video demostrativo:** _(pegar aquí el enlace de Drive o YouTube)_
 
