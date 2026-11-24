@@ -51,7 +51,7 @@ fabrica-vm/
 ├── logs/                 # fabrica.log y consumo.log
 └── docs/
     ├── plan_pruebas.md
-    └── documentacion.pdf       # Incluye las evidencias
+    └── documentacion       # Incluye las evidencias
 ```
 
 ## 5. Instalación
