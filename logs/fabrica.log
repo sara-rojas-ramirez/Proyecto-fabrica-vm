@@ -11,3 +11,6 @@
 2026-11-20 15:19:29 - curso=web comando=vagrant up --no-provision
 2026-11-20 15:29:11 - curso=web comando=vagrant snapshot save --force limpio
 2026-11-20 15:31:03 - curso=web comando=vagrant halt
+2026-11-24 10:53:41 - curso=bd comando=vagrant status
+2026-11-24 10:54:06 - curso=redes comando=vagrant status
+2026-11-24 10:54:20 - curso=web comando=vagrant status
